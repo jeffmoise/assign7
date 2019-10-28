@@ -2,4 +2,4 @@
 
 [Assignment 6](Assignment6.html)
 
-[Assignment7](Assignment7.html)
+[Assignment 7](Assignment7.html)
