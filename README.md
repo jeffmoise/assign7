@@ -10,4 +10,4 @@
 
 [Assignment 10](Assignment10.html)
 
-
+[Midterm](Midterm.rmd.html)
